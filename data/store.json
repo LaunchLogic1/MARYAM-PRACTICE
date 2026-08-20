@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_1",
+      "username": "maryam",
+      "passwordHash": "fe3d3fe077ed2addc8def0b594ff500e46332c2cbc16e9c3d894ce3f64fa77aa68d7968d9300668bb189a85a444b2fdbf7980f95193781b004a4a17bbbfc89db",
+      "salt": "7e166499a928f42b235cf375f1abd6c0",
+      "createdAt": "2026-08-18T15:35:41.222Z",
+      "updatedAt": "2026-08-18T15:35:41.222Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "7ab0ca9f987b3729a31b6f0c8c62c17cf2ffa15fa00133fce0b9e254fb2c01ff",
+      "userId": "usr_admin_1",
+      "username": "maryam",
+      "expiresAt": 1787672293662
+    }
+  ],
+  "products": [],
+  "categories": [
+    {
+      "id": "cat-womens",
+      "slug": "womens-collection",
+      "name": "WOMEN'S COLLECTION",
+      "tagline": "Timeless Pakistani couture & ready-to-wear statements",
+      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=1000&auto=format&fit=crop",
+      "itemCount": 0,
+      "description": "Timeless Pakistani couture & ready-to-wear statements",
+      "displayOrder": 1,
+      "isPublished": true
+    },
+    {
+      "id": "cat-suits",
+      "slug": "suits",
+      "name": "SUITS",
+      "tagline": "Embroidered 3-piece luxury formals & unstitched collections",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1000&auto=format&fit=crop",
+      "itemCount": 0,
+      "description": "Embroidered 3-piece luxury formals & unstitched collections",
+      "displayOrder": 2,
+      "isPublished": true
+    },
+    {
+      "id": "cat-handbags",
+      "slug": "handbags",
+      "name": "HANDBAGS",
+      "tagline": "Structured totes, evening clutches & artisan satchels",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1000&auto=format&fit=crop",
+      "itemCount": 0,
+      "description": "Structured totes, evening clutches & artisan satchels",
+      "displayOrder": 3,
+      "isPublished": true
+    },
+    {
+      "id": "cat-new",
+      "slug": "new-arrivals",
+      "name": "NEW ARRIVALS",
+      "tagline": "Fresh season releases crafted with exquisite precision",
+      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1000&auto=format&fit=crop",
+      "itemCount": 0,
+      "description": "Fresh season releases crafted with exquisite precision",
+      "displayOrder": 4,
+      "isPublished": true
+    },
+    {
+      "id": "cat-accessories",
+      "slug": "accessories",
+      "name": "ACCESSORIES",
+      "tagline": "Silk dupattas, embellished shawls & bespoke jewelry",
+      "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=1000&auto=format&fit=crop",
+      "itemCount": 0,
+      "description": "Silk dupattas, embellished shawls & bespoke jewelry",
+      "displayOrder": 5,
+      "isPublished": true
+    }
+  ],
+  "settings": {
+    "businessName": "Maryam Trade Center",
+    "tagline": "GLOBLE COMMERCE",
+    "subtagline": "Elegance that moves with you.",
+    "subtitle": "GLOBAL COMMERCE | CONNECTING BUSINESSES",
+    "whatsappNumber": "+92 330 5859348",
+    "whatsappRaw": "923305859348",
+    "email": "mirstiger28@gmail.com",
+    "phone": "+92 330 5859348",
+    "currencySymbol": "Rs.",
+    "currencyCode": "PKR",
+    "logo": "",
+    "websiteTitle": "Maryam Trade Center | Pakistani Fashion & Accessories",
+    "metaDescription": "Discover exquisite handcrafted suits, structured leather handbags, and festive ensembles with effortless direct ordering via WhatsApp.",
+    "heroTitle": "CARRY THE MOMENT",
+    "heroDescription": "Elegance that moves with you.",
+    "heroButtonText": "EXPLORE COLLECTION",
+    "heroImage": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?q=80&w=1400&auto=format&fit=crop",
+    "footerDescription": "Maryam Trade Center is a premier Pakistani fashion and accessories catalog. Discover exquisite handcrafted suits, structured leather handbags, and festive ensembles with effortless direct ordering via WhatsApp.",
+    "copyrightText": "© 2026 Maryam Trade Center. All rights reserved.",
+    "newArrivalsLimit": 8,
+    "featuredProductIds": [],
+    "brandName": "MARYAM TRADE CENTER",
+    "logoUrl": "/uploads/Screenshot-2026-08-18-204628-1787068013623-mh5lp.png",
+    "seoTitle": "MARYAM TRADE CENTER | Pakistani Fashion Catalog",
+    "seoDescription": "Exclusive Pakistani luxury fashion, lawn suits, formal ensembles, and artisanal couture.",
+    "footerAbout": "Maryam Trade Center is a premier Pakistani fashion destination showcasing luxury unstitched fabrics, ready-to-wear suites, and artisan accessories."
+  },
+  "media": [
+    {
+      "id": "med_1787068013628_hckv",
+      "filename": "Screenshot-2026-08-18-204628-1787068013623-mh5lp.png",
+      "originalName": "Screenshot 2026-08-18 204628.png",
+      "url": "/uploads/Screenshot-2026-08-18-204628-1787068013623-mh5lp.png",
+      "size": 203069,
+      "mimeType": "image/png",
+      "uploadedAt": "2026-08-18T15:46:53.628Z"
+    },
+    {
+      "id": "med_1787067882828_uond",
+      "filename": "Screenshot-2026-08-18-195905-1787067882824-zc8gr.png",
+      "originalName": "Screenshot 2026-08-18 195905.png",
+      "url": "/uploads/Screenshot-2026-08-18-195905-1787067882824-zc8gr.png",
+      "size": 206111,
+      "mimeType": "image/png",
+      "uploadedAt": "2026-08-18T15:44:42.828Z"
+    }
+  ],
+  "inquiryClicks": []
+}
